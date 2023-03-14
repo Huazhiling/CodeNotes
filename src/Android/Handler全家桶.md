@@ -1,5 +1,5 @@
 - ### Handler，Message，MessageQueue，Looper之间的关系
-      [![Handler关系图](img/Handler.jpg,"Handler关系图")](https://github.com/Huazhiling/CodeNotes/blob/master/src/Android/img/Handler.jpg?raw=true)
+      [![Handler关系图](img/Handler.jpg,"Handler关系图")](https://github.com/Huazhiling/CodeNotes/blob/master/src/Android/img/Handler.jpg)
 
 - ### Handler事件分发
 
