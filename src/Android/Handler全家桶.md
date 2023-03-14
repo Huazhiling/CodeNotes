@@ -1,4 +1,5 @@
 - ### Handler，Message，MessageQueue，Looper之间的关系
+      ![Handler.jpg](img/Handler.jpg)
 
 - ### Handler事件分发
 
