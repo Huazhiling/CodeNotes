@@ -15,7 +15,8 @@
   当Handler把该事件消耗后，此次事件的分发到此结束
 
 - ### Handler回调优先级
-
+  回调优先级顺序如下
+  [![Handler回调顺序.png](img/Handler回调顺序.png "Handler回调顺序")](https://github.com/Huazhiling/CodeNotes/blob/master/src/Android/img/Handler回调顺序.jpg)
 # 进阶一下
 
 - ### 一个线程有几个Looper
